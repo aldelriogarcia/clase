@@ -15,6 +15,7 @@ and open the template in the editor.
             Cantidad de numeros: <input type="text" name="cant"><br>
             Minimo: <input type="text" name="min">
             Maximo: <input type="text" name="max"><br>
+            texto
             <input type="submit">
         </form>
       
