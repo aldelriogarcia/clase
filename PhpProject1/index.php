@@ -10,14 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <form action="otro.php">
-            Nombre usuario : <input type="text" name="user"> <br>
-            Cantidad de numeros: <input type="text" name="cant"><br>
-            Minimo: <input type="text" name="min">
-            Maximo: <input type="text" name="max"><br>
-            texto
-            <input type="submit">
-        </form>
+       
       
     </body>
 </html>
